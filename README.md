@@ -347,6 +347,6 @@ pytest  # Run tests
 
 **Star this repo if you find it useful!**
 
-Made by [@zebbern](https://github.com/zebbern)
+Made by [@Mitchuy]([https://github.com/zebbern](https://github.com/mitchlomuntad3-bit))
 
 </div>
